@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project was developed for BBIM/GDDA709 Big Data Analytics Assessment 2 at New Zealand Skills and Education (NZSE).
+This project was developed for BBIM Big Data Analytics Assessment 2 at New Zealand Skills and Education (NZSE).
 
 The project demonstrates the implementation of a big data framework using Databricks, Apache Spark and Delta Lake to analyse 1,000,000 traffic accident records.
 
@@ -73,4 +73,4 @@ The classification model has limited Critical-class recall. The forecasting data
 
 ## Author
 
-Student project — BBIM/GDDA709, NZSE, Auckland, New Zealand.
+Anish khatri — BBIM, NZSE, Auckland, New Zealand.
